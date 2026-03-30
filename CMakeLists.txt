@@ -21,3 +21,5 @@ add_subdirectory(Day19)
 add_subdirectory(Day20)
 
 add_subdirectory(CodeSnippet)
+
+add_subdirectory(Lua)
