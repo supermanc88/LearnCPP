@@ -23,3 +23,5 @@ add_subdirectory(Day20)
 add_subdirectory(CodeSnippet)
 
 add_subdirectory(Lua)
+
+add_subdirectory(GTEST)
